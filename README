@@ -1,0 +1,9 @@
+/*Author: Suryadeep*/
+
+This is demo on bot development using Api.ai
+
+1. Integrate Api.ai NLP with microsoft bot framework.
+2. Use of api-ai-recogixer package
+
+Install:
+npm install api-ai-recognizer
